@@ -4,15 +4,17 @@ e3-asyn
 e3-busy
 e3-modbus
 e3-ipmiComm
-e3-seq
+e3-sequencer
 e3-sscan
 #e3-motor
 e3-std
 e3-ip
 e3-calc
+e3-delaygen
 e3-pcre
 e3-StreamDevice
 e3-s7plc
 e3-recsync
+e3-MCoreUtils
 #e3-snmp3
 
